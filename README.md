@@ -1,4 +1,4 @@
-# PreProcessing-2nd_Sem-HotelBooking
+# PreProcessing-2nd_Trimes-HotelBooking
 
 This contains a colab link analysing the hotel dataset, a src directory which will contain utils.py that has my pipelines and helper functions, and a report directory that has the Outputs and Graphs explained in a Report PDF
 
@@ -27,8 +27,8 @@ FeatureEngineering_Capstone.ipynb   # Main notebook
 
 1. Clone the repository:
 ```
-git clone https://github.com/shivjain123/PreProcessing-2nd_Sem-HotelBooking
-cd PreProcessing-2nd_Sem-HotelBooking
+git clone https://github.com/shivjain123/PreProcessing-2nd_Trimes-HotelBooking
+cd PreProcessing-2nd_Trimes-HotelBooking
 ```
 
 2. Install dependencies:
